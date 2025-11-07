@@ -1,9 +1,9 @@
-# Anlisis-de-Seguridad-Backdoor-Windows-en-cloudcode_cli.exe
+# Anlisis-de-Seguridad-Backdoor-Windows
 Soy un investigador de seguridad independiente y víctima directa de una brecha de seguridad masiva que comprometió mi privacidad e identidad digital. Durante meses he documentado exhaustivamente una puerta trasera (backdoor) de nivel APT en sistemas Windows que ha sido ignorada por Microsoft a pesar de haberles proporcionado evidencia técnica.
 
 ¿Qué voy a informar?
 
-Este repositorio contiene el análisis forense completo de la backdoor cloudcode_cli.exe, que incluye:
+Este repositorio contiene el análisis forense completo de la backdoor  que incluye:
 
     Evidencia de persistencia multinivel: Servicios, Registry, COM Hijacking
 
