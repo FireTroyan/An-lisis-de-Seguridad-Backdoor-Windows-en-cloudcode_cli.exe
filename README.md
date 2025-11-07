@@ -1,0 +1,2 @@
+# An-lisis-de-Seguridad-Backdoor-Windows-en-cloudcode_cli.exe
+Soy un investigador de seguridad independiente y víctima directa de una brecha de seguridad masiva que comprometió mi privacidad e identidad digital. Durante meses he documentado exhaustivamente una puerta trasera (backdoor) de nivel APT en sistemas Windows que ha sido ignorada por Microsoft a pesar de haberles proporcionado evidencia técnica.
